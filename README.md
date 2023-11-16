@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Todo application built using React and Redux Toolkit. It allows users to add and remove tasks all managed in a store made using Redux-Toolkit
+This is a Todo application built using React+Vite and Redux Toolkit. It allows users to add and remove tasks all managed in a store made using Redux-Toolkit
 
 ## Features
 
