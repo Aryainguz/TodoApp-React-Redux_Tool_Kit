@@ -13,3 +13,5 @@ This is a Todo application built using React+Vite and Redux Toolkit. It allows u
 
 - React
 - Redux Toolkit
+
+hosted link : https://ubiquitous-churros-d89088.netlify.app/
